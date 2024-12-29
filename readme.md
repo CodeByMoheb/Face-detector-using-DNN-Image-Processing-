@@ -1,6 +1,6 @@
 # People Counting Using OpenCV
 
-This project demonstrates how to count the number of people in an image using OpenCV's pre-trained Haar Cascade classifier for face detection.
+This project demonstrates how to count the number of people in an image using OpenCV's pre-trained Haar Cascade classifier & DNN for face detection.
 
 ## Requirements
 
